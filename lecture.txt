@@ -1,0 +1,6 @@
+Blogs Frontend
+1. Login
+2. Signup
+3. Home
+4. Create blog page
+5. Blogs
